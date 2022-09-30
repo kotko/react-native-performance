@@ -20,6 +20,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+ios/.xcode.env.local
 
 *.pbxuser
 !default.pbxuser
@@ -54,6 +55,7 @@ build/
 local.properties
 *.iml
 *.hprof
+.cxx/
 fixture/android/*.keystore
 !fixture/android/debug.keystore
 fixture/android/src/main/assets/*.bundle
@@ -77,6 +79,7 @@ yarn-error.log
 */fastlane/report.xml
 */fastlane/Preview.html
 */fastlane/screenshots
+**/fastlane/test_output
 
 # Bundle artifact
 *.jsbundle

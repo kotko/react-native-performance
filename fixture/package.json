@@ -25,11 +25,11 @@
     "flipper-plugin-shopify-react-native-performance": "2.0.0",
     "graphql": "16.5.0",
     "graphql-tag": "2.12.6",
-    "react": "17.0.2",
-    "react-native": "0.68.2",
+    "react": "18.1.0",
+    "react-native": "0.70.1",
     "react-native-flipper": "^0.146.0",
     "react-native-gesture-handler": "^2.0.0",
-    "react-native-reanimated": "2.8.0",
+    "react-native-reanimated": "3.0.0-rc.3",
     "react-native-safe-area-context": "^4.1.2",
     "react-native-screens": "^3.10.1",
     "recyclerlistview": "3.1.0-beta.6"
@@ -38,6 +38,6 @@
     "babel-plugin-module-resolver": "^4.1.0",
     "glob": "^8.0.1",
     "metro-config": "^0.71.0",
-    "metro-react-native-babel-preset": "^0.71.0"
+    "metro-react-native-babel-preset": "^0.72.1"
   }
 }
